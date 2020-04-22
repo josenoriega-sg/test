@@ -6,3 +6,7 @@ cambio local
 cambio de otro desarrollador
 
 se agrego una linea nueva.
+
+
+añadi el frontend
+
